@@ -2,4 +2,6 @@
 
 ## Description:
 
-About my project bla bla bla...
+About my project 
+
+This is my project
