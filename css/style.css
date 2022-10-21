@@ -19,15 +19,13 @@ h3{
     padding-top: 100px;
     
 } 
-.middle-container {
-    width: 200px;
-    height: 200px;
-    background-color: darkblue;
+.skill-1{
+    height:200px;
+    width: auto;
 }
-.bottom-container {
-    width: 200px;
+.skill-2{
     height: 200px;
-    background-color: crimson;
+    width: auto;
 }
 .cloud-1{
     position: absolute;
